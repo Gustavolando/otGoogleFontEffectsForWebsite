@@ -1,6 +1,6 @@
 ## Google Font Effects for Website
 
-A nice revealed Google font effects practice.
+A nice hidden Google font effects practice.
 
 I practiced font effects from googleapis.
 
